@@ -1,0 +1,12 @@
+=====================Dans les cathegories ====================
+ les deux boutons = ouvivre - ajouter 
+  - sugestion : les change en = emprunt - details  ( apres clique sur emprunt une demande sera lance )
+  - et comme sa le bibliothequaire vas confirmer l'emprunt ou non == on gere pas 
+=====================Dans la partie Etagere ==================
+laba aussi faut revoir les actions pour les bouttons  === valider
+=====================Dans la partie ===========================
+
+====================Menu=====================================
++ Document  == valider
+
+===Information ==> Profil ==valider
